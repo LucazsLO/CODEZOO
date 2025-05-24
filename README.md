@@ -1,9 +1,9 @@
 ![shaun the sheep movie characters GIF](https://github.com/user-attachments/assets/3d4b9f74-57f7-43b6-9ee5-68ad611b8fea)
 
-#🐾 AppCorrida - Corrida de Animais
+# 🐾 AppCorrida - Corrida de Animais
 Um jogo simples e divertido em Java, onde dois jogadores escolhem seus animais e competem em uma corrida com movimentação aleatória. Ideal para praticar lógica de programação, uso de classes e interação com o usuário via terminal.
 
-##🎮 Como Funciona
+## 🎮 Como Funciona
 Dois jogadores escolhem seus animais (Elefante, Macaco ou Hipopótamo).
 
 Definem juntos a distância total da corrida.
@@ -12,7 +12,7 @@ A corrida acontece em turnos, com movimentos aleatórios simulando a velocidade 
 
 Vence quem alcançar ou ultrapassar primeiro a linha de chegada!
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Java (JDK 8+)
 
 Console (sem interface gráfica)
