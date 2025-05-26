@@ -43,3 +43,8 @@ Macaco venceu!
 ```
 
 Divirta-se!
+
+##🎓 Sobre
+
+Este projeto foi desenvolvido como parte de um trabalho acadêmico do curso de Análise e Desenvolvimento de Sistemas.
+Seu objetivo é aplicar conceitos de programação orientada a objetos, lógica condicional e interação com o terminal.
